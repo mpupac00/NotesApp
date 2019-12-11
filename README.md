@@ -1,2 +1,3 @@
-# NotesApp with advanced functionalities 
+
+# NotesApp with advanced functionalities
 
